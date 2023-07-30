@@ -24,7 +24,7 @@ As an experienced web developer, I have successfully delivered various external 
 
 As an accomplished web developer, I bring a wealth of experience in delivering successful projects that have made a tangible impact. Some of my notable prior experiences include:
 
-# E-commerce Platform - TechTrends
+## E-commerce Platform - TechTrends
 As a key member of the development team at TechTrends, I played a vital role in building a feature-rich e-commerce platform from the ground up. Utilizing ReactJS for the frontend and NodeJS with ExpressJS for the backend, I implemented a seamless user interface, intuitive navigation, and robust product catalog management. Working closely with the design team, I ensured a visually engaging and responsive platform that provided an exceptional shopping experience for customers. Additionally, I integrated secure payment gateways and optimized the application for high performance, resulting in increased customer satisfaction and higher conversion rates.
 
 # Contributing
