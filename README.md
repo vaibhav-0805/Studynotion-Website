@@ -28,7 +28,7 @@ As an accomplished web developer, I bring a wealth of experience in delivering s
 As a key member of the development team at TechTrends, I played a vital role in building a feature-rich e-commerce platform from the ground up. Utilizing ReactJS for the frontend and NodeJS with ExpressJS for the backend, I implemented a seamless user interface, intuitive navigation, and robust product catalog management. Working closely with the design team, I ensured a visually engaging and responsive platform that provided an exceptional shopping experience for customers. Additionally, I integrated secure payment gateways and optimized the application for high performance, resulting in increased customer satisfaction and higher conversion rates.
 
 # Contributing
-StudyNotion is open-source, and contributions are welcome! Please review the Contributing Guidelines for more details.
+StudyNotion is open-source, and contributions are welcome! Please review the [Contributing Guidelines]([url](https://github.com/github/docs/blob/main/CONTRIBUTING.md)) for more details.
 
 # License
 This project is licensed under the MIT License.
