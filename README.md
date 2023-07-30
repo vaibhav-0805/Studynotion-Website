@@ -1,4 +1,4 @@
-# Studynotion-Website
+# Studynotion-An Ed-tech Platform
 StudyNotion is a cutting-edge ed-tech platform designed to enhance the learning experience for students and educators. It offers personalized learning paths, interactive course materials, and real-time progress tracking.
 
 # Features
