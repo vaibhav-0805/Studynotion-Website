@@ -33,5 +33,3 @@ At ChatterBox, a real-time chat application start-up, I led the development of a
 # Contributing
 StudyNotion is open-source, and contributions are welcome! Please review the [Contributing Guidelines](https://github.com/github/docs/blob/main/CONTRIBUTING.md) for more details.
 
-# License
-This project is licensed under the MIT License.
