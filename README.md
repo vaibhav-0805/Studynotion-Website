@@ -59,9 +59,34 @@ Here is a high-level diagram that illustrates the architecture of the StudyNotio
 ![Architecture](images/architecture.png)
   
 # Getting Started
-- Clone this repository: git clone https://github.com/your-username/StudyNotion.git
-- Install dependencies: npm install
-- Run the development server: npm start
+1. Clone the repository to your local machine.
+    ```sh
+    git clone https://github.com/vaibhav-0805/Studynotion-Website.git
+    ```
+
+2. Install the required packages.
+    ```sh
+    cd Studynotion-Website
+    npm install
+    
+    cd server
+    npm install
+    ```
+
+3. Set up the environment variables:
+
+   Create a .env file in the root directory and /server
+   Add the required environment variables, such as database connection details, JWT secret, and any other necessary configurations check .env.example files for more info.
+
+
+4. Start the development server.
+    ```sh
+    npm run dev
+    ```
+
+5. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
+
+The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
 
 # Contributing
