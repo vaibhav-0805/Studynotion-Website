@@ -1,6 +1,6 @@
 # Studynotion-An Ed-tech Platform [Website Link](https://studynotion-frontend.vercel.app/)
 
-[Main Page](images/mainpage.png)
+![Main Page](images/mainpage.png)
 
 StudyNotion is a cutting-edge ed-tech platform designed to enhance the learning experience for students and educators. It offers personalized learning paths, interactive course materials, and real-time progress tracking.
 
