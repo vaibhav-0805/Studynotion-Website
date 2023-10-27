@@ -42,6 +42,15 @@ The back-end of the platform is built using NodeJS and ExpressJS, providing APIs
 - Payment Integration: Students will purchase and enroll in courses by completing the checkout flow, followed by Razorpay integration for payment handling.
 - Cloud-based Media Management: StudyNotion uses Cloudinary, a cloud-based media management service, to store and manage all media content, including images, videos, and documents.
 - Markdown Formatting: Course content in document format is stored in Markdown format, allowing for easier display and rendering on the front-end.
+
+# Database
+
+The database for the platform is built using MongoDB, which is a NoSQL database that provides a flexible and scalable data storage solution. MongoDB allows for the storage of unstructured and semi-structured data. The database stores the course content, user data, and other relevant information related to the platform.
+
+# Architectural Design
+
+Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech platform:
+
   
 # Getting Started
 - Clone this repository: git clone https://github.com/your-username/StudyNotion.git
